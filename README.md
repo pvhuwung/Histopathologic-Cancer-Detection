@@ -26,5 +26,5 @@ The eval.py script evaluates the trained model on the test set. The script loads
 ## Results
 The model achieves an accuracy of 92.03% on the test set.
 
-##Conclusion
+## Conclusion
 The combination of CovNExt and ViT architectures provides a powerful model for histopathologic cancer detection using computer vision. The model achieves high accuracy on the test set and can be used for automated diagnosis of cancerous cells in histopathologic images.
