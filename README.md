@@ -1,6 +1,6 @@
 
 
-This repository contains code for a deep learning model that detects cancerous cells in histopathologic images using computer vision. The model utilizes ViT (Vision Transformer) and CovNExt (Convolutional Neural Network with Extra-Width and Random-Erasing Augmentation) architectures for training.
+This repository contains code for a deep learning model that detects cancerous cells in histopathologic images using computer vision. The model utilizes `ViT (Vision Transformer)` and `CovNExt (Convolutional Neural Network with Extra-Width and Random-Erasing Augmentation)` architectures for training.
 
 ## Requirements
 - Python 3.7+
